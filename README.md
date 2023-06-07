@@ -19,7 +19,11 @@ A collective list of where i am exposed to all the different design trends and i
 ### Interesting Blogs
 ### Documentations for dev
 ### Youtube Videos 
-### Chrome Extensions 
+### Chrome Extensions
+### Generative AI
+- [Chat GPT](https://chat.openai.com/)
+- [Dall.E](https://labs.openai.com/)
+- [Google Bard](https://bard.google.com/)
 ### Planning and Productivity tools
 
 
