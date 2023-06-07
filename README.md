@@ -11,6 +11,7 @@ A collective list of where i am exposed to all the different design trends and i
 ### Socials
 - [StackOverflow](https://stackoverflow.com/)
 - [Dev.to](https://dev.to/)
+- [StackExchange](https://stackexchange.com/)
 ### Interesting Blogs
 ### Documentations for dev
 ### Youtube Videos 
