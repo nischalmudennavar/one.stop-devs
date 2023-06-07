@@ -5,15 +5,17 @@ i want to create a one stop repo for all the resources related to developers in 
 ### Design Inspirations 
 A collective list of where i am exposed to all the different design trends and ideas to help me think better and improve my visual library
 - [Behance](https://www.behance.net/)
-- [Dribble](https://dribbble.com/)
+- [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
 ### Code Editors and IDEs 
 ### Socials
+- [StackOverflow](https://stackoverflow.com/)
+- [Dev.to](https://dev.to/)
 ### Interesting Blogs
 ### Documentations for dev
 ### Youtube Videos 
 ### Chrome Extensions 
-### Productivity tools
+### Planning and Productivity tools
 
 
  
