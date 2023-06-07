@@ -25,6 +25,7 @@ A collective list of where i am exposed to all the different design trends and i
 - [Dall.E](https://labs.openai.com/)
 - [Google Bard](https://bard.google.com/)
 - [Rix By Hashnode](https://hashnode.com/rix)
+- [Midjourney](https://www.midjourney.com/home/)
 ### Planning and Productivity tools
 
 
