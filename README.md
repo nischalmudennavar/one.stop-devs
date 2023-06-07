@@ -11,10 +11,11 @@ A collective list of where i am exposed to all the different design trends and i
 - [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
 ### Code Editors and IDEs 
-### Socials
+### Socials and Blog Sites 
 - [StackOverflow](https://stackoverflow.com/)
 - [Dev.to](https://dev.to/)
 - [StackExchange](https://stackexchange.com/)
+- [Hashnode](https://hashnode.com/)
 ### Interesting Blogs
 ### Documentations for dev
 ### Youtube Videos 
