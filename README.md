@@ -5,8 +5,10 @@ i want to create a one stop repo for all the resources related to developers in 
 ### Design resources
 ### Code Editors and IDEs 
 ### Socials
-### Blogs
+> [Behance](https://www.behance.net/)
+### Interesting Blogs
 ### Documentations for dev
+### Youtube Videos 
 ### Chrome Extensions 
 ### Productivity tools
 
