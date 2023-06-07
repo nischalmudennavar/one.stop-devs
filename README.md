@@ -5,6 +5,7 @@ i want to create a one stop repo for all the resources related to developers in 
 - [Colorhunt](https://colorhunt.co/)
 - [Coolors](https://coolors.co/)
 - [Adobe Colors](https://color.adobe.com/)
+- [colorcombos](https://www.colorcombos.com/grabcolors.html)
 ### Design Inspirations 
 A collective list of where i am exposed to all the different design trends and ideas to help me think better and improve my visual library
 - [Behance](https://www.behance.net/)
@@ -19,6 +20,7 @@ A collective list of where i am exposed to all the different design trends and i
 ### Interesting Blogs
 ### Documentations for dev
 ### Youtube Videos 
+- [Lama Dev]
 ### Chrome Extensions
 ### Generative AI
 - [Chat GPT](https://chat.openai.com/)
