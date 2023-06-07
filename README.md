@@ -24,6 +24,7 @@ A collective list of where i am exposed to all the different design trends and i
 - [Chat GPT](https://chat.openai.com/)
 - [Dall.E](https://labs.openai.com/)
 - [Google Bard](https://bard.google.com/)
+- [Rix By Hashnode](https://hashnode.com/rix)
 ### Planning and Productivity tools
 
 
