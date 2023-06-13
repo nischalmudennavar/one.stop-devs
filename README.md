@@ -10,6 +10,9 @@ A collective list of where i am exposed to all the different design trends and i
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
+### Design Tools or Asset Generators 
+- [Magic Patterns](https://www.magicpattern.design/)
+- [Super Deigner](https://superdesigner.co/)
 ### Code Editors and IDEs 
 ### Socials and Blog Sites 
 - [StackOverflow](https://stackoverflow.com/)
