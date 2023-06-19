@@ -15,6 +15,7 @@ A collective list of where i am exposed to all the different design trends and i
 - [Super Deigner](https://superdesigner.co/)
 - [CSS Patterns](https://css-pattern.com/)
 ### Code Editors and IDEs 
+- [VS Code](https://code.visualstudio.com/)
 ### Socials and Blog Sites 
 - [StackOverflow](https://stackoverflow.com/)
 - [Dev.to](https://dev.to/)
