@@ -14,6 +14,7 @@ A collective list of where i am exposed to all the different design trends and i
 - [Magic Patterns](https://www.magicpattern.design/)
 - [Super Deigner](https://superdesigner.co/)
 - [CSS Patterns](https://css-pattern.com/)
+- [8 bit Animations](https://www.it8bit.com/)
 ### Code Editors and IDEs 
 - [VS Code](https://code.visualstudio.com/)
 ### Socials and Blog Sites 
