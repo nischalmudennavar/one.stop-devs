@@ -13,6 +13,7 @@ A collective list of where i am exposed to all the different design trends and i
 ### Design Tools or Asset Generators 
 - [Magic Patterns](https://www.magicpattern.design/)
 - [Super Deigner](https://superdesigner.co/)
+- [CSS Patterns](https://css-pattern.com/)
 ### Code Editors and IDEs 
 ### Socials and Blog Sites 
 - [StackOverflow](https://stackoverflow.com/)
