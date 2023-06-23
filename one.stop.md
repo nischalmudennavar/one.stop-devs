@@ -10,11 +10,12 @@ A collective list of where i am exposed to all the different design trends and i
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
-### Design Tools or Asset Generators 
+### Design Tools or Asset Generators or Resources
 - [Magic Patterns](https://www.magicpattern.design/)
 - [Super Deigner](https://superdesigner.co/)
 - [CSS Patterns](https://css-pattern.com/)
 - [8 bit Animations](https://www.it8bit.com/)
+- [Growth.Design](https://growth.design/) useCases and Pyschology
 ### Code Editors and IDEs 
 - [VS Code](https://code.visualstudio.com/)
 ### Socials and Blog Sites 
