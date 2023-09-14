@@ -25,6 +25,7 @@ A collective list of where i am exposed to all the different design trends and i
 - [Hashnode](https://hashnode.com/)
 ### Interesting Blogs
 ### Documentations for dev
+- [Tesseract JS for text in image detection and stuff ](https://github.com/naptha/tesseract.js#tesseractjs)
 ### Youtube Videos 
 ### Chrome Extensions
 ### Generative AI
